@@ -26,5 +26,3 @@ Then you can start the script in watch mode with
 ```
 pnpm start
 ```
-
-## Get
